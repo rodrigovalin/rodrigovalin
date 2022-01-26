@@ -22,8 +22,9 @@ I've built a few things the last couple of years:
 - [sonar](https://github.com/mongodb/sonar): Allows you to easily produce, template, build and publish Dockerfiles and Docker images. It uses a declarative, multi-stage approach to build Docker images.
 - [hake](https://gitlab.com/licorna/hake): _Kubernetes clusters with no bone_. A simple tool (in Rust) to easily deploy and recreate Kubernetes clusters using Kind or DigitalOcean's Kubernetes offering. I've been using this for the last year as my main CLI for all things related to testing in Kubernetes.
 
-# Things I enjoy doing
+# Things that I like
 
+- I studied at the music conservatory of my University, while studying Engineering.
 - I love music, playing the [traverse flute](https://en.wikipedia.org/wiki/Transverse_flute) and singing.
 - I really enjoy reading about history, novels and [poetry](https://en.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez). Actually anything. I have beside my bed: [Brian Green's Until The End of Time](https://www.goodreads.com/book/show/43685238-until-the-end-of-time), [Schrodinger's What is Life](https://en.wikipedia.org/wiki/What_Is_Life%3F), [Wolf's Proust and the Squid](https://www.goodreads.com/book/show/289751.Proust_and_the_Squid), and a few others. They change every few weeks.
 - Playing football; however, I'm not a great player for a guy from South America.
